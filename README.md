@@ -1,7 +1,7 @@
 # ATM-AND-BANKING-SYSTEM
 # Reg No: 212224220030
-# Name:
-# Date:
+# Name: GURUPARAN G
+# Date: 25.04.26
 
 
 # AIM:
